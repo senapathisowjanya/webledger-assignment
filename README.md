@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <h1 align="center" >
-   Tasty Food
+  🍔🍕🍣🍴🥗... Tasty Food ... 👨‍🍳🍽️ 🍰🍪🍨
 
   ![Borcelle](https://github.com/senapathisowjanya/webledger-assignment/assets/119430125/f371db53-8440-4537-a388-d684f56821d5)
 
