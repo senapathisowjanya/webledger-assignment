@@ -32,39 +32,11 @@ UserRoute.post("/register", async (req, res) => {
         });
         await newUser.save();
 
-        const transporter = createTransport({
-          host: process.env.MAIL_HOST,
-          port: process.env.MAIL_PORT,
-          auth: {
-            user: process.env.MAIL_USER,
-            pass: process.env.MAIL_API_KEY,
-          },
+        return res.status(201).send({
+          msg: `User Successfully Registered`,
         });
-
-        const mailOptions = {
-          from: process.env.MAIL_USER,
-          to: email,
-          subject: "Welcome Message",
-          text: "Registration Successful.",
-          html: "Congratulations! Your account registration has been successfully completed. Please proceed to login:",
-        };
-        transporter.sendMail(mailOptions, (err, info) => {
-          if (err) {
-            return res.status(500).send({
-              msg: `chat ${err.message}`,
-            });
-          } else {
-            res.status(200).send({
-              msg: "Email sent successfully",
-            });
-          }
-        });
-
-       
       });
-    //   return res.status(201).send({
-    //     msg: `User Successfully Registered`,
-    //   });
+     
     }
   } catch (error) {
     res.status(400).send({
