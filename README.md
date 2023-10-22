@@ -9,7 +9,7 @@
 
 <h1 align="center">"Tasty Food & Healthy Food " </h1>
 <h3 align="center">
-	<a href="(https://recipe-xb31bcz2n-senapathisowjanya.vercel.app/)" target="_blank">Live URL</a>
+	<a href="https://recipe-ilzgtsdlc-senapathisowjanya.vercel.app/" target="_blank">Live URL</a>
 </h3>
   
 <!-- TABLE OF CONTENTS -->
@@ -43,10 +43,12 @@ Tasty Food is your passport to a world of mouthwatering recipes, culinary advent
 
 Sowjanya Senapathi- [GitHub](https://github.com/senapathisowjanya)
 
+## Deployed Links
+Front End:-https://recipe-ilzgtsdlc-senapathisowjanya.vercel.app/
+Backend:-https://repulsive-gray-bikini.cyclic.app
 
 
 
-## Some Glimpse of our Cloned Website
 ## Glimpse of our Landing Page
 ## Home page
 
