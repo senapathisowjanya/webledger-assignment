@@ -44,7 +44,7 @@ Tasty Food is your passport to a world of mouthwatering recipes, culinary advent
 Sowjanya Senapathi- [GitHub](https://github.com/senapathisowjanya)
 
 ## Deployed Links
-Front End:-https://recipe-ilzgtsdlc-senapathisowjanya.vercel.app/
+Front End:-https:https://recipe-app-red-zeta.vercel.app/
 <br />
 Backend:-https://repulsive-gray-bikini.cyclic.app
 
